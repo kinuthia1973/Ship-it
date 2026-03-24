@@ -1,4 +1,4 @@
-throw new Error("failure for showing");
+
 
 console.log("CI test run");
 
