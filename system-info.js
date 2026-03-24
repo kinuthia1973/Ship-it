@@ -1,3 +1,5 @@
+throw new Error("failure for showing");
+
 console.log("CI test run");
 
 console.log("System Information Script Running...");
