@@ -1,3 +1,5 @@
+console.log("CI test run");
+
 console.log("System Information Script Running...");
 console.log("Node version:", process.version);
 console.log("Platform:", process.platform);
